@@ -1,0 +1,10 @@
+{
+  "name": "genpark-levenshtein-fuzzy-tool-matcher-skill",
+  "version": "1.0.1",
+  "description": "Fast Levenshtein distance and fuzzy similarity matcher autocorrecting hallucinated or typo-prone LLM tool calls",
+  "tools": [
+    "find_best_match",
+    "compute_distance",
+    "suggest_alternatives"
+  ]
+}
