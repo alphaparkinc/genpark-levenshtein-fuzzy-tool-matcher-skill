@@ -1,0 +1,7 @@
+name: genpark-levenshtein-fuzzy-tool-matcher-skill
+description: Fast Levenshtein distance and fuzzy similarity matcher autocorrecting hallucinated or typo-prone LLM tool calls
+version: 1.0.1
+entrypoint: mcp_server.py
+command: python
+args:
+  - mcp_server.py
